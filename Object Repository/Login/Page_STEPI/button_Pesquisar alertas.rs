@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pesquisar alertas</name>
+   <tag></tag>
+   <elementGuidId>89f7a8b0-31d6-42cc-94f7-a06de6d9c81e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn--search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/app-layout-search/article/section/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e04f5d2b-be4c-48df-aa03-4a925e4e11e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--search</value>
+      <webElementGuid>8c424103-a497-4512-ad5f-ee870dcc8840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pesquisar alertas</value>
+      <webElementGuid>e92e11cc-e571-4902-8c90-8ba3b707a6de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/app-layout-search[1]/article[@class=&quot;main-content__search&quot;]/section[@class=&quot;main-content__search__header&quot;]/div[@class=&quot;toggle-btns&quot;]/button[@class=&quot;btn btn--search&quot;]</value>
+      <webElementGuid>79183049-9985-4897-baf8-bd7fdac68e8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/app-layout-search/article/section/div/button</value>
+      <webElementGuid>266e21c2-d18d-4841-9553-e91a0edc47bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layout de atos e reports'])[1]/following::button[1]</value>
+      <webElementGuid>10a153d6-d8dd-4edb-883d-0ddcc28cffd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modelos de Tramitação'])[1]/following::button[1]</value>
+      <webElementGuid>2ce301b9-09b3-4c65-a177-c1136172da6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesquisar alertas'])[2]/preceding::button[1]</value>
+      <webElementGuid>a073f8ac-069f-4e90-a69a-b28cd9e0e660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/button</value>
+      <webElementGuid>0b5314b8-bff5-4c2b-a971-b61c21d4668f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pesquisar alertas' or . = 'Pesquisar alertas')]</value>
+      <webElementGuid>e7e9e35e-0f5c-4bea-9189-1987d073d26c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
